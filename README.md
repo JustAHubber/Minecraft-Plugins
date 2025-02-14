@@ -10,7 +10,7 @@ All features will be {idea}(Default Value)
 ### World
 • Mob Spawn rate multiplier (3x)
 ### Creepers
-• Explosion size multiplied (50x)
+• Explosion size multiplied (25x)
 • Chance to spawn charged (5%)
 ### Zombies
 • Spawn with random armour (All armour is allowed | Diamond and Netherite cannot be dropped)
