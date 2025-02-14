@@ -1,7 +1,7 @@
 # Minecraft Plugins
 All of these are very AI generated, but they all work so you can't complain.
 
-## OP Mobs
+# OP Mobs
 ## Features
 The mod should have an easy configuration file that ties in nicely with the code.
 All features of the mod should be configured where necessary
@@ -53,7 +53,7 @@ Chance of OP mob spawning (2.5%)
 • Spawn mobs on death (On | 3)
 
 
-## Useful Additions
+# Useful Additions
 Silk touch spawner:
 	Spawners can be mined with silk touch
 
